@@ -1,3 +1,5 @@
+""" Camelcase converter program """
+
 def camelcase(sentence):
     """ Convert sentence to camelCase, for example, "Display all books"
     is converted to "displayAllBooks" """
